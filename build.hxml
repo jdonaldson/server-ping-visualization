@@ -1,0 +1,3 @@
+-cp src
+-main Ping
+-js bin/ping.js
